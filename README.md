@@ -2,24 +2,24 @@ A simplistic To-Do application which offers a user friendly experience of showin
 
 ## Requirements
 
-1. Java - 1.8.x
+1. Node
 
-2. Maven - 3.x.x
+2. Java
 
-3. MongoDB - 3.x.x
+3. MongoDB
 
 ## Steps to Setup
 
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/saranshbansal/sbansal-todo-app.git
+git clone https://github.com/saranshbansal/todolist-assignment-java.git
 ```
 
 **2. Run the backend app using maven**
 
 ```bash
-cd spring-boot-backend
+cd spring-boot-mongo-backend
 mvn spring-boot:run
 ```
 
