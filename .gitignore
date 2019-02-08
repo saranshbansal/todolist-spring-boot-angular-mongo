@@ -1,0 +1,7 @@
+.settings
+.idea
+*.iml
+target
+.DS_Store
+.bowerrc
+*.iml
