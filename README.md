@@ -1,4 +1,6 @@
-A simplistic To-Do application which offers a user friendly experience of showing pending and completed tasks with option to add/delete and mark todos as completed. Built on top of AngularJS, Spring Boot, and MongoDB
+A simplistic To-Do application which offers a user friendly experience of showing pending and completed tasks with option to add/delete and mark todos as completed. Built on top of AngularJS, Spring Boot, and MongoDB.
+
+![alt text](http://url/to/img.png)
 
 ## Requirements
 
